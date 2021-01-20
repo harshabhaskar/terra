@@ -1,2 +1,2 @@
 # terra
-terraform scripts
+This is a terraform scripts stored for deployments
